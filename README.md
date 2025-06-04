@@ -33,13 +33,21 @@ Você deverá aplicar os seguintes **design patterns** e boas práticas:
 
 ## 📂 Estrutura esperada após a refatoração
 ├── App.java # Ponto de entrada limpo
+
 ├── controller/
+
 │ └── UserController.java # Entrada e saída do sistema
+
 ├── model/
+
 │ └── User.java # Representação do usuário
+
 ├── service/
+
 │ └── UserService.java # Lógica de cadastro, listagem, exclusão
+
 └── repository/
+
 └── UserRepository.java # Simula armazenamento em memória
 
 ## 🧪 O que você deve entregar
