@@ -74,4 +74,4 @@ Você pode começar quebrando o `main` em métodos pequenos, e depois mover esse
 ## 📚 Referências
 
 - [Design Patterns em Java](https://refactoring.guru/design-patterns/java)
-- [Princípios SOLID](https://medium.com/educative/s-o-l-i-d-principles-in-java-6b6c7e1b3d4e)
+- [Princípios SOLID]([https://medium.com/educative/s-o-l-i-d-principles-in-java-6b6c7e1b3d4e](https://medium.com/@brunobandev/os-princ%C3%ADpios-s-o-l-i-d-em-imagens-1b5233479c21))
